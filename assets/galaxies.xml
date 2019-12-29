@@ -1,0 +1,70 @@
+<galaxies>
+	<world name="Terrace">
+		<galaxy name="Good Egg Galaxy" file="EggStarGalaxy" />
+		<galaxy name="Honeyhive Galaxy" file="HoneyBeeKingdomGalaxy" />
+		<galaxy name="Loopdeeloop Galaxy" file="SurfingLv1Galaxy" />
+		<galaxy name="Flipswitch Galaxy" file="FlipPanelExGalaxy" />
+		<galaxy name="Sweet Sweet Galaxy" file="BeltConveyerExGalaxy" />
+		<galaxy name="Bowser Jr.'s Robot Reactor" file="TriLegLv1Galaxy" />
+	</world>
+	<world name="Fountain">
+		<galaxy name="Space Junk Galaxy" file="StarDustGalaxy" />
+		<galaxy name="Battlerock Galaxy" file="BattleShipGalaxy" />
+		<galaxy name="Rolling Green Galaxy" file="TamakoroExLv1Galaxy" />
+		<galaxy name="Hurry-Scurry Galaxy" file="BreakDownPlanetGalaxy" />
+		<galaxy name="Sling Pod Galaxy" file="CocoonExGalaxy" />
+		<galaxy name="Bowser's Star Reactor" file="KoopaBattleVs1Galaxy" />
+	</world>
+	<world name="Kitchen">
+		<galaxy name="Beach Bowl Galaxy" file="HeavenlyBeachGalaxy" />
+		<galaxy name="Ghostly Galaxy" file="PhantomGalaxy" />
+		<galaxy name="Bubble Breeze Galaxy" file="CubeBubbleExLv1Galaxy" />
+		<galaxy name="Buoy Base Galaxy" file="OceanFloaterLandGalaxy" />
+		<galaxy name="Drip Drop Galaxy" file="TearDropGalaxy" />
+		<galaxy name="Bowser Jr.'s Airship Armada" file="KoopaJrShipLv1Galaxy" />
+	</world>
+	<world name="Bedroom">
+		<galaxy name="Gusty Garden Galaxy" file="CosmosGardenGalaxy" />
+		<galaxy name="Freezeflame Galaxy" file="IceVolcanoGalaxy" />
+		<galaxy name="Dusty Dune Galaxy" file="SandClockGalaxy" />
+		<galaxy name="Honeyclimb Galaxy" file="HoneyBeeExGalaxy" />
+		<galaxy name="Bigmouth Galaxy" file="FishTunnelGalaxy" />
+		<galaxy name="Bowser's Dark Matter Plant" file="KoopaBattleVs2Galaxy" />
+	</world>
+	<world name="Engine Room">
+		<galaxy name="Gold Leaf Galaxy" file="ReverseKingdomGalaxy" />
+		<galaxy name="Sea Slide Galaxy" file="OceanRingGalaxy" />
+		<galaxy name="Toy Time Galaxy" file="FactoryGalaxy" />
+		<galaxy name="Bonefin Galaxy" file="SkullSharkGalaxy" />
+		<galaxy name="Sand Spiral Galaxy" file="TransformationExGalaxy" />
+		<galaxy name="Bowser Jr.'s Lava Reactor" file="FloaterOtaKingGalaxy" />
+	</world>
+	<world name="Gate">
+		<galaxy name="Gateway Galaxy" file="HeavensDoorGalaxy" />
+		<galaxy name="Boo's Boneyard Galaxy" file="TeresaMario2DGalaxy" />
+	</world>
+	<world name="Garden">
+		<galaxy name="Deep Dark Galaxy" file="OceanPhantomCaveGalaxy" />
+		<galaxy name="Dreadnought Galaxy" file="CannonFleetGalaxy" />
+		<galaxy name="Melty Molten Galaxy" file="HellProminenceGalaxy" />
+		<galaxy name="Matter Splatter Galaxy" file="DarkRoomGalaxy" />
+		<galaxy name="Snow Cap Galaxy" file="SnowCapsuleGalaxy" />
+		<galaxy name="Bowser's Galaxy Reactor" file="KoopaBattleVs3Galaxy" />
+	</world>
+	<world name="Planet of Trials">
+		<galaxy name="Rolling Gizmo Galaxy" file="TamakoroExLv2Galaxy" />
+		<galaxy name="Bubble Blast Galaxy" file="CubeBubbleExLv2Galaxy" />
+		<galaxy name="Loopdeeswoop Galaxy" file="SurfingLv2Galaxy" />
+		<galaxy name="Grand Finale Galaxy" file="PeachCastleFinalGalaxy" />
+	</world>
+	<world name="Comet Observatory">
+		<galaxy name="Comet Observatory" file="AstroGalaxy" />
+		<galaxy name="Dome Interior" file="AstroDome" />
+		<galaxy name="Library Interior" file="LibraryRoom" />
+	</world>
+	<world name="Others">
+		<galaxy name="File Select" file="FileSelect" />
+		<galaxy name="Mushroom Kingdom" file="PeachCastleGardenGalaxy" />
+		<galaxy name="Epilogue Stage" file="EpilogueDemoStage" />
+	</world>
+</galaxies>
